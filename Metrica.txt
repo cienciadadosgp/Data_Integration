@@ -20,10 +20,10 @@ Variáveis relevantes: histórico de reprovação, frequência baixa, crianças 
 
 Como cruzar
 
-Crianças de famílias em situação de vulnerabilidade (Assistência) + alta taxa de faltas na escola (Educação) + registros de doenças ou não vacinação (Saúde).
+famílias em situação de vulnerabilidade (Assistência) + alta taxa de faltas na escola (Educação) + registros de doenças ou não vacinação (Saúde).
 → Modelo prevê risco de evasão escolar + agravamento de vulnerabilidade social.
 
-Famílias com benefício social suspenso + baixa procura por saúde preventiva + filhos com desempenho escolar abaixo da média.
+Famílias com benefício social + baixa procura por saúde preventiva + filhos com desempenho escolar abaixo da média.
 → Indica risco de exclusão social futura.
 
 O que prever
@@ -31,5 +31,6 @@ O que prever
 Probabilidade de evasão escolar em alunos em situação de vulnerabilidade.
 
 Risco de agravo de saúde em famílias sem acompanhamento preventivo.
+
 
 Identificação de famílias que podem precisar de atendimento prioritário e integrado (CRAS + UBS + escola).
