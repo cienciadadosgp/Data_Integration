@@ -18,20 +18,18 @@ Dados: matrícula escolar, evasão, frequência, desempenho escolar, alunos com 
 
 Variáveis relevantes: histórico de reprovação, frequência baixa, crianças em idade escolar fora da escola.
 
-Como cruzar
-
-famílias em situação de vulnerabilidade (Assistência) + alta taxa de faltas na escola (Educação) + registros de doenças ou não vacinação (Saúde).
-= Modelo prevê risco de evasão escolar + agravamento de vulnerabilidade social.
-
-Famílias com benefício social + baixa procura por saúde preventiva + filhos com desempenho escolar abaixo da média.
-= Indica risco de exclusão social futura.
-
+cruzar
+{
+Crianças de famílias em situação de vulnerabilidade (Assistência) + alta taxa de faltas na escola (Educação) + registros de doenças ou não vacinação (Saúde).
+- Modelo prevê risco de evasão escolar + agravamento de vulnerabilidade social.
+Famílias com benefício social suspenso + baixa procura por saúde preventiva + filhos com desempenho escolar abaixo da média.
+- Indica risco de exclusão social futura.
+}
+[
 O que prever
+Educaocao: Probabilidade de evasão escolar em alunos em situação de vulnerabilidade.
+Social: Probabilidade de concessão ou manutenção de benefícios sociais a famílias em vulnerabilidade.
+Saúde: Probabilidade de reincidência em atendimentos de urgência ou agravamento de condições crônicas.
+]
 
-Probabilidade de evasão escolar em alunos em situação de vulnerabilidade.
-
-Risco de agravo de saúde em famílias sem acompanhamento preventivo.
-
-
-Identificação de famílias que podem precisar de atendimento prioritário e integrado (CRAS + UBS + escola).
 
